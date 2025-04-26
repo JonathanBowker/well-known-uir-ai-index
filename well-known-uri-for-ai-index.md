@@ -110,7 +110,7 @@ To implement the `/.well-known/ai-index.json`:
 **Non-goals**:
 
 - Force indexing of all brand assets.
-- Mandate crawler behavior beyond retrieval and parsing.
+- Mandate crawler behaviour beyond retrieval and parsing.
 - Provide certification or verification of publisher identity.
 
 ## References
