@@ -3,7 +3,7 @@
 **URI suffix**: `ai-index`
 
 **Author and change controller**:  
-Jonathan Bowker, ops@advancedanalytica.co.uk  
+Jonathan Bowker, jonathan@advancedanalytica.co.uk  
 (Willing to delegate change control to an IETF or W3C working group if required.)
 
 ## Background (non-normative)
