@@ -1,1 +1,1 @@
-# well-known-uir-ai-index
+# well-known-uri-ai-index
